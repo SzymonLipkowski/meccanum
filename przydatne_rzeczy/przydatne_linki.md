@@ -3,8 +3,6 @@ Jest to plik do wrzucania przydatnych link√≥w np. do bibliotek funkcji, albo co≈
 
 
 ## Zawody BARN
-**Strona internetowa:**
-https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge24.html
+[**Strona internetowa:**](https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge24.html)
 
-**Repozytorium Github:**
-https://github.com/Daffan/the-barn-challenge
+[**Repozytorium Github:**](https://github.com/Daffan/the-barn-challenge)
