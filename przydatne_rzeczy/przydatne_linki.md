@@ -6,3 +6,6 @@ Jest to plik do wrzucania przydatnych link√≥w np. do bibliotek funkcji, albo co≈
 [**Strona internetowa**](https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge24.html)
 
 [**Repozytorium Github**](https://github.com/Daffan/the-barn-challenge)
+
+## Poradnik do Markdown
+[Poradnik](https://stormit.pl/markdown/)
