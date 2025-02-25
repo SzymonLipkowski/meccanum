@@ -1,0 +1,16 @@
+Linux:
+1. wciśnięcie tab kończy pisanie, jeśli jest to unikatowe
+2. Dwa szybie tab pokazuje wszystkie opcje
+
+ROS2 pojęcia
+1. Package - są tam Node'y => ros2 pkg ...
+2. Node - obiekt wykonujący swój program => ros2 node ... LUB ros2 run <pkg name> <node name>
+3. Topic - używane do komunikacji między node'ami => ros2 topic ...
+4. Publisher - tworzy topic i do niego zapisuje
+5. Subscriber - czyta z topic
+
+Twist - 3d współrzędne z rotacjami
+Teleop - odczyt z klawiatury
+
+ROS2 pomoc
+1. Komenda $rqt_graph - pokazuje node'y i topic'i obecnie działające (ogl rqt_ i 2 szybkie tab pokazuje też sporo innych opcji)
