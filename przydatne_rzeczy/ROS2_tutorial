@@ -1,0 +1,9 @@
+Najlepszy kurs do ROS2 -> https://www.youtube.com/watch?v=0aPbWsyENA8&list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy
+
+Tworzenie środowiska (wymagana edycja pliku tekstowego, więc albo szukać pliku i kminić albo pobrać to co ten chop używa): https://www.youtube.com/watch?v=3GbrKQ7G2P0
+
+Tworzenie package (https://www.youtube.com/watch?v=iBGZ8LEvkCY): 
+  1. cd <środowisko ROS2>/src
+  2. ros2 pkg create <nazwa pkg> --build-type ament_python (aby był w Pythonie i polecam też 2 razy tab, żeby widzieć więcej opcji)
+  3. source install/setup.bash
+
